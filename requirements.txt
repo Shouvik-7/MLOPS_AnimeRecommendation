@@ -1,0 +1,11 @@
+pandas
+numpy
+setuptools
+google-cloud-storage
+pyyaml
+tensorflow-cpu==2.12
+comet-ml
+dvc
+dvc-gs
+flask
+joblib

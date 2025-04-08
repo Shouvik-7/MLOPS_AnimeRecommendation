@@ -1,0 +1,10 @@
+2025-04-07 16:56:38,852 - INFO - Model Training & COMET ML initialized..
+2025-04-07 16:56:38,933 - INFO - Data loaded sucesfully for Model Trainig
+2025-04-07 16:56:38,967 - INFO - Succesfully read the YAML file
+2025-04-07 16:56:38,967 - INFO - Loaded configuration from config.yaml
+2025-04-07 16:56:39,054 - INFO - Model created sucesfully....
+2025-04-07 16:57:21,879 - INFO - Model training Completedd.....
+2025-04-07 16:57:21,929 - INFO - Model saved to artifacts/model\model.h5
+2025-04-07 16:57:21,932 - INFO - Extracting weights for user_embedding
+2025-04-07 16:57:21,942 - INFO - Extracting weights for anime_embedding
+2025-04-07 16:57:22,009 - INFO - User and Anime weights saved sucesfully....
